@@ -267,9 +267,9 @@ Open `notebooks/Heart_Disease_Prediction.ipynb` and run the cells in order.
 
 BBA-CA Graduate | Machine Learning | Python | Data Analysis
 
-GitHub: (https://github.com/manojBhorge07)
+GitHub: https://github.com/manojBhorge07
 
-LinkedIn: (https://in.linkedin.com/in/manoj-bhorge-630a81287)
+LinkedIn: https://in.linkedin.com/in/manoj-bhorge-630a81287
 
 
 
